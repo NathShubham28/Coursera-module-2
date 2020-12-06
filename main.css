@@ -11,6 +11,11 @@
 .navbar-nav{
     border-top: 1px solid #000000;
 }
+
+.navbar-nav li{
+    text-align: center;
+}
+
 .heading{
     margin-top: 3rem;
     text-align: center;
